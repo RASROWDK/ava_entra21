@@ -46,7 +46,7 @@ Muitas empresas usam planilhas para rastrear seus planos, finanças e estoques. 
 
 ## ProofHub
 
-Com suas ricas funcionalidades de gerenciamento de tarefas, o ProofHub oferece uma solução valiosa de gerenciamento de projetos Kanban. Você pode adicionar detalhes, prazos para uma tarefa ou anexar documentos a cada tarefa. Em termos de colaboração, você pode adicionar comentários a cada tarefa, usar a seção de Discussões ou usar as caixas de bate-papo adicionais.
+Com suas ricas funcionalidades de gerenciamento de tarefas, o ProofHub oferece uma solução valiosa de gerenciamento de projetos Kanban. Você pode adicionar detalhes, prazos para uma tarefa ou anexar documentos a cada tarefa. Em termos de colaboração, você pode adicionar comentários a cada tarefa, usar a seção de Discussões ou usar as caixas de bate-papo adicionais. 
 
 ### Principais Recursos
 
@@ -56,5 +56,6 @@ Com suas ricas funcionalidades de gerenciamento de tarefas, o ProofHub oferece u
 - Relatórios personalizados
 - Acompanhamento de tempo
 - Discussões
+
 
 [Fonte](https://kanbanize.com/pt/recursos-kanban/guia-do-software-kanban)
